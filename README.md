@@ -1,3 +1,4 @@
+![Untitled design (5)](https://github.com/user-attachments/assets/d5018c70-7dee-4ce6-8c6a-07152f57895c)
 # Expense-Management-Platform-Development-Company-Toronto-Canada
 
 Businesses in Toronto are rapidly adopting digital solutions to manage their finances efficiently. Manual expense tracking is time-consuming, error-prone, and inefficient.
